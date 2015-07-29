@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Add+++</string>
+
+    <!--Main Activity-->
+    <string name="textView_number1">Write number 1:</string>
+    <string name="textView_number2">Write number 2:</string>
+    <string name="hint_number">Ex: 251648</string>
+    <string name="button_add">Add</string>
+
+    <!--Float menu-->
+    <string name="action_information">Information</string>
+    <string name="action_delete">Delete parameters</string>
+
+    <!--Result Activity-->
+    <string name="textView_result">0</string>
+    <string name="button_return">Return</string>
+    <string name="title_activity_result">Result</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
